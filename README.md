@@ -1,5 +1,5 @@
 ### Hi there, I'm Jihee Kim a.k.a chohu_boraaaa! 👋
-* I'm junior of Chungbuk National University.
+* I'm junior at Chungbuk National University.
 * My major is Information Statistics and Big Data.
 * I live in Yongin City, Gyeonggi-do, Korea.
 ---
