@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'am Jihee Kim a.k.a chohu_boraaaa! 👋
 
 <!--
 **chohu-boraaaa/chohu-boraaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
