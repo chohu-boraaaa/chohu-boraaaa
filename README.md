@@ -16,5 +16,3 @@
 
 #### 🌱 I want to be...
 * I want to be a DATA SCIENTIST.📊
-
-#### I am 23.
